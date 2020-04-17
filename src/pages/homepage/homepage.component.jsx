@@ -1,6 +1,5 @@
 import React from 'react';
 import Directory from '../../components/directotry/directory.component';
-import MenuItem from '../../components/menu-item/menu-item';
 
 import './homepage.styles.scss';
 const Homepage = () => (
